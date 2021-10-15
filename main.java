@@ -3,3 +3,5 @@ public class main{
      System.out.println("Hello Java");  
     }  
 }
+
+//push after remove
